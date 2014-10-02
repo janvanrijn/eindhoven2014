@@ -10,7 +10,7 @@
 <div class="tab-content">
   <div class="tab-pane active" id="scientific">
     <h2>Monday, October 20th 2014</h2>
-    
+    <p>The scientific program will be held in the Traverse Building, van Trierzaal. Please see the <a href="directions.php">directions page</a> how to get there. </p>
     <div class="container">
       <div class="row">
         <div class="col-md-12"><hr/></div>
@@ -84,8 +84,8 @@
       <h2>Tuesday - Friday</h2>
       <p>OpenML is all about <a target="_blank" href="http://dl.acm.org/citation.cfm?id=2641198">Networked Machine Learning</a>, it offers researchers a new way of organizing results and building upon each others work. The workshop is organized in a hackathon fashion, meaning that participants are encouraged to bring their laptops, and work together on various aspects that they need for their research. With the complete OpenML team available in Eindhoven, features that require server side programming can be created on the fly. As OpenML is an open source project, everyone who is interested is welcome to join.</p>
     
-      <p>Some projects that will be addressed during the Hackathon are: Various R packages, the OpenML Java Connector, Meta-QSAR extensions and the RapidMiner plugin. 
-      </p>
+      <p>Some projects that will be addressed during the Hackathon are: Various R packages, the OpenML Java Connector, Meta-QSAR extensions and the RapidMiner plugin. </p>
+      <p>The hackathon will be held in the MetaForum Building. Please see the <a href="directions.php">directions page</a> how to get there. </p>
     </div>
   </div>
 </div>
