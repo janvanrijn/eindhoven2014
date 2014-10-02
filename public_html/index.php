@@ -1,4 +1,5 @@
 <?php require('header.php'); ?>
+<section class="block">
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -11,9 +12,10 @@
             <img src="images/eindhoven.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>Eindhoven 2014</h1>
-                <p>This is the third workshop featuring OpenML, succeeding Leuven 2012 and Zurich 2013. Although the workshop has a hackathon nature, the first day will be dedicated to various scientific presentations, featuring OpenML.</p>
-                <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Read more</a></p>
+                <h1>OpenML @ Eindhoven</h1>
+		<p>October 20-24, 2014</p>
+                <p>Welcome to the third OpenML workshop, after Leuven 2012 and Zurich 2013.<br/>Learn all about networked machine learning, and break our your laptop to get started in our Hackathon.</p>
+                <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Scientific program and Hackathon</a></p>
               </div>
             </div>
           </div>
@@ -21,9 +23,10 @@
             <img src="images/metaforum.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>Registration</h1>
-                <p>This gives you access to the scientific program, including a talk of Prof. Dr. Ross King, and the hackathon. Make sure to bring your own laptop with you. Registration is free, but registration is required</p>
-                <p><a class="btn btn-lg btn-primary" href="<?php $pages['Register']; ?>" target="_blank" role="button">Register now</a></p>
+                <h1>Networked Machine Learning</h1>
+                <p>OpenML.org is a place where machine learning researchers can share and reuse data, tools and experiments, while scientists and students can explore which machine learning techniques to use.</p>
+		<p>Learn about interdisciplinary applications from Prof. Dr. Ross King, how OpenML is readily integrated in machine learning tools, and how to get started.</p>
+                <p><a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1eo8K_7ulkLjoCcKfkoCz-Xw1mj80lZISIBYISVoEHns/viewform?c=0&w=1" target="_blank" role="button">Register now</a></p>
               </div>
             </div>
           </div>
@@ -32,7 +35,7 @@
             <div class="container">
               <div class="carousel-caption">
                 <h1>Hotels and directions</h1>
-                <p>Eindhoven has an airport positioned close by and also Amsterdam Airport has a good transport network going to Eindhoven. The campus is located next to the train station.</p>
+                <p>Eindhoven has its own airport, and is well connected to Amsterdam Airport as well. The venue is located on the TU/e campus, next to the main train station, and close to the old cty center.</p>
                 <p><a class="btn btn-lg btn-primary" href="directions.php" role="button">Get directions</a></p>
               </div>
             </div>
@@ -41,4 +44,5 @@
         <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
         <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
       </div>
+</section>
 <?php require('footer.php'); ?>

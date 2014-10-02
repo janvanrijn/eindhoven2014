@@ -1,11 +1,13 @@
 <?php require('header.php'); ?>
+<div class="container">
     <div class="small-pagefill"><iframe src="https://www.google.com/maps/d/embed?mid=zOUh5nIVQBzw.kpB0PXYzFEPM" id="directionmap"></iframe></div>
     <div>
-      <h2>Accommodation and Directions</h2>
-      <p>Eindhoven has an airport positioned close by and also Amsterdam Airport has a good transport network going to Eindhoven. The campus is located next to the train station.</p>
+      <h2>Getting there</h2>
+      <p>Eindhoven has its own airport and is well-connected to Amsterdam Airport. The workshop will be held at the TU/e campus, next to the train station and within walking distance of the old town centre. <a href="http://www.tue.nl/en/university/about-the-university/accessibility-tue-campus/">Full directions to the TU/e campus here</a>.</p>
 
-      <h3>Workshop Schedule</h3>
-      <p>The workshop will be held accros campus. Please check on the Google Maps Frame where the room is located.</p>
+      <h3>Workshop Venues</h3>
+      <p>The workshop venues are indicated on the map on the right. The scientific program on Monday will take place in the Traverse building, while the Hackathon will be held in the Metaforum.</p>
+      <p>Check the overview below for the exact locations:</p>
       
       <table id="schedule">
         <thead>
@@ -50,8 +52,8 @@
         </tbody>
       </table>
 
-      <h3>Hotel</h3>
-      <p>For those looking for affordable accommodation, we recommend the following hotel:
-<a href="http://www.hotelvanneer.nl/en/index.html">Hotel van Neer</a>. It is a short walk from campus, has decent rooms, and prices are around 50 euro per night, including breakfast.</p>
+      <h3>Hackathon Hotel</h3>
+      <p>For students looking for affordable accommodation, we recommend the following hotel: <a href="http://www.hotelvanneer.nl/en/index.html">Hotel van Neer</a>. It is a short walk from campus, has decent rooms, and prices are around 50 euro per night, including breakfast.</p>
     </div>
+</div>
 <?php require('footer.php'); ?>

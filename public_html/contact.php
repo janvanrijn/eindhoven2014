@@ -1,4 +1,5 @@
 <?php require('header.php'); ?>
+<div class="container">
   <div class="small-pagefill"><img src="images/eindhoven2.jpg" alt="Eindhoven City" /></div>
     <div>
       <h2>Contact</h2>
@@ -19,5 +20,7 @@
             <p>Leiden University</p>
             <p><a href="http://liacs.leidenuniv.nl/~rijnjnvan/" target="_blank">http://liacs.leidenuniv.nl/~rijnjnvan/</a></p>
         </div>
+      </div>
+      </div>
       </div>
 <?php require('footer.php'); ?>
