@@ -9,6 +9,10 @@ body {
   margin-bottom: 60px;
 }
 
+.time {
+  text-align: right;
+}
+
 .footer {
   position: absolute;
   bottom: 0;

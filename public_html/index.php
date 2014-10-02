@@ -22,7 +22,7 @@
             <div class="container">
               <div class="carousel-caption">
                 <h1>Registration</h1>
-                <p>Registration is free of charge, and gives you access to the scientific program, including a talk of Prof. Dr. Ross King, and the hackathon. Make sure to bring your own laptop with you. </p>
+                <p>This gives you access to the scientific program, including a talk of Prof. Dr. Ross King, and the hackathon. Make sure to bring your own laptop with you. Registration is free, but registration is required</p>
                 <p><a class="btn btn-lg btn-primary" href="<?php $pages['Register']; ?>" target="_blank" role="button">Register now</a></p>
               </div>
             </div>
