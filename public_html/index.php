@@ -14,7 +14,7 @@
               <div class="carousel-caption">
                 <h1>OpenML @ Eindhoven</h1>
 		<p>October 20-24, 2014</p>
-                <p>Welcome to the third OpenML workshop, after Leuven 2012 and Zurich 2013.<br/>Learn all about networked machine learning, and break our your laptop to get started in our Hackathon.</p>
+                <p>Welcome to the third OpenML workshop, after Leuven 2012 and Zurich 2013.<br/>Learn all about networked machine learning, and break out your laptop to get started in our Hackathon.</p>
                 <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Scientific program and Hackathon</a></p>
               </div>
             </div>
