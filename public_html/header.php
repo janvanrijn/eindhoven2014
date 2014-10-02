@@ -1,13 +1,12 @@
 <?php $pages = array( 
         'Home' => 'index.php', 
-        'Workshop' => 'workshop.php', 
         'Program' => 'program.php', 
+        'Register' => 'https://docs.google.com/forms/d/1eo8K_7ulkLjoCcKfkoCz-Xw1mj80lZISIBYISVoEHns/viewform?c=0&amp;w=1',
         'Directions' => 'directions.php', 
         'Contact' => 'contact.php' ); 
         $script_name = explode( '/', $_SERVER['SCRIPT_NAME'] );
         $script_name = end( $script_name );
-        ?>
-<!DOCTYPE html>
+        ?><!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -55,7 +54,7 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <?php foreach( $pages as $page => $url ): ?>
-            <li <?php if( $script_name == $url ) echo 'class="active"'; ?>><a href="<?php echo $url; ?>"><?php echo $page; ?></a></li>
+            <li <?php if( $script_name == $url ) echo 'class="active"'; ?>><a href="<?php echo $url; ?>" <?php if(substr($url, 0, 4) == 'http' ) echo 'target="_blank"';?>><?php echo $page; ?></a></li>
             <?php endforeach; ?>
           </ul>
         </div><!--/.nav-collapse -->
