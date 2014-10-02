@@ -12,8 +12,8 @@
             <div class="container">
               <div class="carousel-caption">
                 <h1>Eindhoven 2014</h1>
-                <p>This is the third workshop featuring OpenML, succeeding Leuven 2012 and Zurich 2013. During a week in the Dutch City of Light, we have arranged a scientific program and a hackathon. </p>
-                <p><a class="btn btn-lg btn-primary" href="workshop.php" role="button">Read more</a></p>
+                <p>This is the third workshop featuring OpenML, succeeding Leuven 2012 and Zurich 2013. Although the workshop has a hackathon nature, the first day will be dedicated to various scientific presentations, featuring OpenML.</p>
+                <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Read more</a></p>
               </div>
             </div>
           </div>
@@ -21,9 +21,9 @@
             <img src="images/metaforum.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>Scientific Program</h1>
-                <p>Although the workshop has a hackathon nature, the first day will be dedicated to various scientific presentations, featuring OpenML.</p>
-                <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Read more</a></p>
+                <h1>Registration</h1>
+                <p>Registration is free of charge, and gives you access to the scientific program, including a talk of Prof. Dr. Ross King, and the hackathon. Make sure to bring your own laptop with you. </p>
+                <p><a class="btn btn-lg btn-primary" href="<?php $pages['Register']; ?>" target="_blank" role="button">Register now</a></p>
               </div>
             </div>
           </div>
@@ -33,7 +33,7 @@
               <div class="carousel-caption">
                 <h1>Hotels and directions</h1>
                 <p>Eindhoven has an airport positioned close by and also Amsterdam Airport has a good transport network going to Eindhoven. The campus is located next to the train station.</p>
-                <p><a class="btn btn-lg btn-primary" href="directions.php" role="button">Read more</a></p>
+                <p><a class="btn btn-lg btn-primary" href="directions.php" role="button">Get directions</a></p>
               </div>
             </div>
           </div>
