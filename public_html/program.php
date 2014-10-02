@@ -46,7 +46,7 @@
         <div class="col-md-12"><hr/></div>
       </div>
       <div class="row">
-          <div class="col-md-2">15:00 - 15:45</div>
+          <div class="col-md-2">15:00 - 15:40</div>
           <div class="col-md-3">Prof. Dr. Luis Torgo</div>
           <div class="col-md-7"><p><a data-toggle="modal" data-target="#torgo">Estimating the Performance of Predictive Models in R</a></p></div>
       </div>
@@ -54,7 +54,7 @@
         <div class="col-md-12"><hr/></div>
       </div>
       <div class="row">
-          <div class="col-md-2">15:45 - 16:30</div>
+          <div class="col-md-2">15:40 - 16:20</div>
           <div class="col-md-3">Dr. Bernd Bischl</div>
           <div class="col-md-7"><p><a data-toggle="modal" data-target="#bischl">MLR and OpenML</a></p></div>
       </div>
@@ -62,14 +62,14 @@
         <div class="col-md-12"><hr/></div>
       </div>
       <div class="row">
-          <div class="col-md-2">16:30 - 17:00</div>
-          <div class="col-md-3">Coffee Break</div>
+          <div class="col-md-2">16:20 - 16:35</div>
+          <div class="col-md-3">Coffee break</div>
       </div>
       <div class="row">
         <div class="col-md-12"><hr/></div>
       </div>
       <div class="row">
-          <div class="col-md-2">17:00 - 17:30</div>
+          <div class="col-md-2">16:35 - 17:00</div>
           <div class="col-md-3">Jan van Rijn</div>
           <div class="col-md-7"><p><a data-toggle="modal" data-target="#rijn">Meta Learning on Data Streams: A case study</a></p></div>
       </div>
@@ -82,7 +82,7 @@
     <div class="small-pagefill"><img src="images/metaforum2.jpg" /></div>
     <div>
       <h2>Tuesday - Friday</h2>
-      <p>OpenML is all about <a target="_blank" href="http://www.liacs.nl/~jvrijn/pdf/pub/sigkdd2014.pdf">Networked Machine Learning</a>, it offers researchers a new way of organizing results and building upon each others work. The workshop is organized in a hackathon fashion, meaning that participants are encouraged to bring their laptops, and work together on various aspects that they need for their research. With the complete OpenML team available in Eindhoven, features that require server side programming can be created on the fly. As OpenML is an open source project, everyone who is interested is welcome to join.</p>
+      <p>OpenML is all about <a target="_blank" href="http://dl.acm.org/citation.cfm?id=2641198">Networked Machine Learning</a>, it offers researchers a new way of organizing results and building upon each others work. The workshop is organized in a hackathon fashion, meaning that participants are encouraged to bring their laptops, and work together on various aspects that they need for their research. With the complete OpenML team available in Eindhoven, features that require server side programming can be created on the fly. As OpenML is an open source project, everyone who is interested is welcome to join.</p>
     
       <p>Some projects that will be addressed during the Hackathon are: Various R packages, the OpenML Java Connector, Meta-QSAR extensions and the RapidMiner plugin. 
       </p>

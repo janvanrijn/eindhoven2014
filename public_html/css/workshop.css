@@ -41,6 +41,29 @@ body {
   margin: 20px 20px;
 }
 
+.universitylogo {
+  float: right;
+  width: 60px;
+  margin: 5px 5px;
+}
+
+.universitylogo > img {
+  width: 60px;
+}
+
+.businesscard {
+  width: 600px;
+}
+
+#schedule {
+  width: 600px;
+}
+
+#directionmap {
+  width: 500px;
+  height: 400px;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
