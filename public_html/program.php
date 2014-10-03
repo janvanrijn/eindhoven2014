@@ -56,7 +56,7 @@
       </div>
       <div class="row">
           <div class="col-md-2">15:40 - 16:20</div>
-          <div class="col-md-7"><p><a data-toggle="modal" data-target="#bischl">MLR and OpenML</a><br>
+          <div class="col-md-7"><p><a data-toggle="modal" data-target="#bischl">OpenML + R + mlr</a><br>
 				Dr. Bernd Bischl</div>
       </div>
       <div class="row">
@@ -136,12 +136,13 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title">R and OpenML</h4>
+        <h4 class="modal-title">OpenML + R + mlr</h4>
         <p class="speaker">Dr. Bernd Bischl</p>
       </div>
       <div class="modal-body">
-        <p class="abstract">R does not define a standardized interface for all its machine learning algorithms. Thus, you often need to write wrappers to call the different algorithms, implement 
-infrastructure for resampling, hyperparameter optimization, feature selection, data pre- and post-processing, and statistical analysis. 'mlr' is an R package that provides this infrastructure so that you can focus on your experiments. Moreover, a second package, 'openml', does all the talking to OpenML to download data, run experiments and upload results, so that all your experiments are organized online. We explain how these packages work, what's next, and how it can be used in applications.</p>
+        <p class="abstract">I will first introduce an R package to interface with OpenML. We support querying and downloading, running experiments and uploading results, so that all your experiments are organized online. R itself allows many forms of machine learning methods and experiments, from completely custom code to powerful semi-automated frameworks. The OpenML package is framework-agnostic in that regard.</p>
+<p>The mlr package provides a generic, object-oriented, and extensible interface to a large number of machine learning methods in R. It enables researchers and practitioners to easily compare methods and implementations from different packages, rapidly conduct complex experiments, and implement their own meta-methods using mlr's building blocks. Classification, regression, survival analysis, and clustering are supported and virtually every resampling strategy. Meta-Optimization can be performed by tuning, feature filtering and feature selection, and most modeling steps can be parallelized. Its object-oriented structure provides in many cases a close match to the OpenML structure, and it can already be connected to the OpenML R package in a simple manner.</p>
+<p>The talk will conclude with an outlook regarding the next steps, open challenges and ideas to improve upon the current state of the project.</p>
       </div>
     </div>
   </div>
