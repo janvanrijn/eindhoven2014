@@ -14,7 +14,8 @@
               <div class="carousel-caption">
                 <h1>OpenML @ Eindhoven</h1>
 		<p>October 20-24, 2014</p>
-                <p>Welcome to the third OpenML workshop, after Leuven 2012 and Zurich 2013.<br/>Learn all about networked machine learning, and break out your laptop to get started in our Hackathon.</p>
+                <p>OpenML aims to connect data, tools, and people online to do machine learning better, together.</p>
+                <p>Learn all about networked machine learning from prominent speakers, meet a helpful community of researchers, and break out your laptop to get started in the Hackathon.</p>
                 <p><a class="btn btn-lg btn-primary" href="program.php" role="button">Scientific program and Hackathon</a></p>
               </div>
             </div>
@@ -23,9 +24,9 @@
             <img src="images/metaforum.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>Networked Machine Learning</h1>
-                <p>OpenML.org is a place where machine learning researchers can share and reuse data, tools and experiments, while scientists and students can explore which machine learning techniques to use.</p>
-		<p>Learn about interdisciplinary applications from Prof. Dr. Ross King, how OpenML is readily integrated in machine learning tools, and how to get started.</p>
+                <h1>Research different</h1>
+                <p>OpenML is a place where scientists can freely share and reuse data, tools and experiments, and help other scientists (and students) to explore and use machine learning techniques in practice.</p>
+		<p>Learn about interdisciplinary applications from Prof. Dr. Ross King, how OpenML is readily integrated in many machine learning tools, and how to get started.</p>
                 <p><a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/1eo8K_7ulkLjoCcKfkoCz-Xw1mj80lZISIBYISVoEHns/viewform?c=0&w=1" target="_blank" role="button">Register now</a></p>
               </div>
             </div>
