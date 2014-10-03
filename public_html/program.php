@@ -136,12 +136,12 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title">MLR and OpenML</h4>
+        <h4 class="modal-title">R and OpenML</h4>
         <p class="speaker">Dr. Bernd Bischl</p>
       </div>
       <div class="modal-body">
-        <p class="abstract">To be announced. Some topics that will be covered: How does mlr work, how does the openml R package work? Where do we stand, what is the
-plan for the next steps and how can these be combined. Finally, what is survival analysis, why do we want to have that in OpenML.</p>
+        <p class="abstract">R does not define a standardized interface for all its machine learning algorithms. Thus, you often need to write wrappers to call the different algorithms, implement 
+infrastructure for resampling, hyperparameter optimization, feature selection, data pre- and post-processing, and statistical analysis. 'mlr' is an R package that provides this infrastructure so that you can focus on your experiments. Moreover, a second package, 'openml', does all the talking to OpenML to download data, run experiments and upload results, so that all your experiments are organized online. We explain how these packages work, what's next, and how it can be used in applications.</p>
       </div>
     </div>
   </div>
