@@ -36,7 +36,7 @@
             <div class="container">
               <div class="carousel-caption">
                 <h1>Hotels and directions</h1>
-                <p>Eindhoven has its own airport, and is well connected to Amsterdam Airport as well. The venue is located on the TU/e campus, next to the main train station, and close to the old cty center.</p>
+                <p>Eindhoven has its own airport, and is well connected to Amsterdam Airport as well. The venue is located on the TU/e campus, next to the main train station, and close to the old city center.</p>
                 <p><a class="btn btn-lg btn-primary" href="directions.php" role="button">Get directions</a></p>
               </div>
             </div>
