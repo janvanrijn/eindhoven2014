@@ -110,7 +110,7 @@
         <p class="speaker">Prof. Ross King</p>
       </div>
       <div class="modal-body">
-        <p>Abstract will follow soon.</p><p>Prof. Dr. Ross D. King is Professor of Machine Intelligence in the School of Computer Science at the University of Manchester. King's research interests are in the automation of science, drug design, AI, machine learning and synthetic biology. He is probably best known for the Robot Scientist.</p>
+        <p>Abstract will follow soon. Topics: How to Design Drugs? Automating drug discovery with the Robot Scientist. Using chemoinformatic databases and in-house datasets to systematically run extensive comparative QSAR experiments. Learning how to better apply existing QSAR methods. Decreasing the time and cost to develop new drugs.</p><p>Prof. Dr. Ross D. King is Professor of Machine Intelligence in the School of Computer Science at the University of Manchester. King's research interests are in the automation of science, drug design, AI, machine learning and synthetic biology. He is probably best known for the Robot Scientist.</p>
       </div>
     </div>
   </div>
