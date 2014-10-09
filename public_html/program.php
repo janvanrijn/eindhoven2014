@@ -157,9 +157,9 @@
         <p class="speaker">As. Prof. Joaquin Vanschoren</p>
       </div>
       <div class="modal-body">
-        <p class="abstract">Today, the ubiquity of the internet is allowing new, more scalable forms of scientific collaboration. Such 'networked science' uses online tools to share and organize data on a global scale so that scientists are able to build directly on each other's data and techniques, reuse them in unforeseen ways, and mine all data to search for patterns.</p>
+        <p class="abstract">Today, the ubiquity of the internet is allowing new, more scalable forms of scientific collaboration. <i>Networked science</i> uses online tools to share and organize data on a global scale so that scientists are able to build directly on each other's data and techniques, reuse them in unforeseen ways, and mine all data to search for patterns.</p>
 
-          <p>OpenML.org is a place where machine learning researchers can easily share and reuse data, tools and experiments. It helps machine learning researchers win time by automating experimentation as much as possible, and gain more credit for their work by making it more visible and easily reusable.</p>
+          <p>OpenML.org is a place where researchers can easily share and reuse machine learning data sets, tools and experiments. It helps researchers win time by automating machine learning experiments as much as possible, and gain more credit for their work by making it more visible and easily reusable.</p>
           <p>Moreover, OpenML helps scientists and students to explore different machine learning techniques, find out which are most useful in their work, and collaborate with others to analyze scientific data online.</p>
 
       </div>
