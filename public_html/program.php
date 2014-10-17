@@ -98,7 +98,7 @@
           <p><b>9:30-10:30: Wake-up pitch. </b>During the wake-up pitch, people will be asked at random to give a 5 minute presentation about their current state of the project, and open problems. On Wednesday Leon Osinski (3TU Datacentrum) will give a presentation. </p>
           <p><b>10:30-12:00: Morning block. </b></p>
           <p><b>12:00-13:00: Lunch. </b></p>
-          <p><b>13:00-18:00: Afternoon block. </b>On Friday afternoon there will be final presentations (15 minutes) about the achieved goals. Slides not required, lot's of demonstrations appreciated. </p>
+          <p><b>13:00-18:00: Afternoon block. </b>On Friday afternoon there will be final presentations (15 minutes) about the achieved goals. Slides not required, lots of demonstrations appreciated. </p>
           <h3>Social Activity</h3>
           <p>Wednesday night we will have a social activity. Various options will be given through the week, Wednesday afternoon the activity will be decided based on a majority vote.</p> 
        </div>
